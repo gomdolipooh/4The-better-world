@@ -3,6 +3,7 @@
 
 <br>
 
+## Summary📄
 ### "This app assists visually impaired individuals in boarding and disembarking from buses.
 ### Through the Public Transportation API, users can obtain arrival information for desired buses.
 ### The app was designed with only two buttons for visually impaired users.
